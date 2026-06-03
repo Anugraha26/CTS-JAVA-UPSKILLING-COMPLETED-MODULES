@@ -1,2 +1,18 @@
-# CTS-JAVA-UPSKILLING-COMPLETED-MODULES
-Solutions and exercises completed as part of the Java Upskilling Round, covering core Java concepts, programming fundamentals, and problem-solving tasks.
+### Module 1: Web Technologies
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+### Module 2: Database Management
+- ANSI SQL using MySQL
+- 
+### Module 3: Core Java
+- Java Fundamentals
+- Control Statements
+- Arrays and Strings
+- Object-Oriented Programming
+- Collections Framework
+- Exception Handling
+- File Handling
+- Practice Programs
