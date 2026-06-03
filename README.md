@@ -6,7 +6,7 @@
 
 ### Module 2: Database Management
 - ANSI SQL using MySQL
-- 
+  
 ### Module 3: Core Java
 - Java Fundamentals
 - Control Statements
